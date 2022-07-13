@@ -1,0 +1,15 @@
+{
+    "char_attrs": {
+        "name": "john",
+        "species": "human",
+        "gender": "male"
+    },
+    "inventory": {
+        "snack": "apple",
+        "weapon": "sword",
+        "tool": "rope"
+    },
+    "difficulty": "Easy",
+    "lives": 1,
+    "level": 3
+}
